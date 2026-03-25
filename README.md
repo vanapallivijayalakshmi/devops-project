@@ -1,17 +1,23 @@
-## 📌 Description
-This project demonstrates how to deploy a static website using GitHub Pages.
+# DevOps Projects 🚀
 
-## ⚙️ Steps
-1. Created index.html file
-2. Initialized Git repository
-3. Pushed code to GitHub
-4. Enabled GitHub Pages
+This repository contains all my DevOps internship projects.
 
-## 🌐 Live Link
-https://vanapallivijayalakshmi.github.io/devops-project/
+## 📌 Project 1: GitHub Pages
+- Created a static website using HTML
+- Deployed using GitHub Pages
 
-## 📸 Output
-Website successfully deployed and running.
+## 📌 Project 2: Docker Web App
+- Created a Dockerfile
+- Containerized a web application
 
-## 👩‍💻 Author
-Vijaya Lakshmi
+## 📌 Project 3: Docker + Kubernetes
+- Created Kubernetes deployment YAML file
+- Deployed application using Kubernetes
+
+## 📌 Project 4: CI/CD Pipeline
+- Created CI/CD pipeline configuration
+- Automated build and deployment process
+
+## 📌 Project 5: Observability
+- Added notes on monitoring and logging
+- Basic observability
